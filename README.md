@@ -7,4 +7,4 @@ link to DCGAN trained model : https://drive.google.com/file/d/1RigwHbrgqb-nRBFcD
 
 link to CGAN trained model: https://drive.google.com/file/d/1ZPjpGEsoXFg5H0XETd4ehNvSpJcIFC-R/view?usp=sharing
 
-link to Classification trained model : 
+link to Classification trained model : https://drive.google.com/file/d/1rpGar_m1LERF-Ju_o8M0QYLHV9pYhd3Q/view?usp=sharing
